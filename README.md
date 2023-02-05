@@ -7,6 +7,9 @@
 -  search item
 
 ## Built With
- HTML
- JavaScript
+ - HTML
+ - JavaScript
+ 
+## Live Demo
 
+You can check out a live demo of the app at (''' https://your-username.github.io/todoitem '''.
