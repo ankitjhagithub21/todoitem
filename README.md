@@ -12,4 +12,4 @@
  
 ## Live Demo
 
-You can check out a live demo of the app at (''' https://your-username.github.io/todoitem '''.
+You can check out a live demo of the app at (''' https://ankitjhagithub21.github.io/todoitem '''.
